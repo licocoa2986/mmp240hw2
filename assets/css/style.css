@@ -1,0 +1,15 @@
+h1{
+	color:#484A4A;
+	font-family:helvetica;
+}
+
+p, label, li{
+	color:#484A4A;
+	font-family: verdana;
+	line-height:24px;
+}
+
+a{
+	color:#25345F;
+	text-decoration: none;
+}
